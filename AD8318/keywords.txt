@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For AD7887 library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AD8318 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+AD8318	KEYWORD2
+setMode	KEYWORD2
+getMode KEYWORD2
+toggleMode KEYWORD2
+convert KEYWORD2
+getUnit KEYWORD2
+readEEPROM KEYWORD2
+readPROGMEM KEYWORD2
+setOffset KEYWORD2
+getParmSize KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
